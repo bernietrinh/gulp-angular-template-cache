@@ -6,6 +6,5 @@ A gulp plugin to inject partial templates as angular template cache directly in 
 
     npm install
 
-```usage
+#### usage
     gulp cache
-```
